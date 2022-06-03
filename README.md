@@ -2,4 +2,4 @@
 Generate fake handwritten digit samples using generative adversarial networks trained on MNIST dataset.
 
 # Result after 200 epochs
-!(https://imgur.com/x5NfGrl)
+![](https://imgur.com/x5NfGrl)
